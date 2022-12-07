@@ -11,7 +11,7 @@ const Home = () => {
             
             <div className="flex flex-col justify-center h-full">
                 <h2 className="text-4xl sm:text-7xl font-bold text-white">I'm a MERN Stack Developer</h2>
-                <p className="text-gray-500 py-4 max-w-md">I'm MERN Stack Developer & Having Good Knowledge in MERN Stack with good in building Web Application, Used React.js for Clientside , Node.js & Express.js for server side and MongoDB for Database</p>
+                <p className="text-gray-500 py-4 max-w-md">I'm full Stack Developer & Having Good Knowledge in MERN Stack with good in building Web Application, Used React.js for Clientside , Node.js & Express.js for server side and MongoDB for Database</p>
 
                 <div>
                     <Link to= "project"className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-400 via-cyan-500 to-blue-400">
